@@ -67,7 +67,7 @@
         {"row":4, "col": 7, "x": 4,   "y":4, "label":"Space", "w":7},
         {"row":4, "col":11, "x":11,   "y":4, "label":"Super", "w":1.5},
         {"row":4, "col":12, "x":12.5, "y":4, "label":"Alt"},
-        {"row":4, "col":13, "x":13.5, "y":4, "label":"Ctrl"}
+        {"row":4, "col":13, "x":13.5, "y":4, "label":"Ctrl", "w":1.5}
       ]
     }
   }
